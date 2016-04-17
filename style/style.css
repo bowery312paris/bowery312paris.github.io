@@ -720,7 +720,7 @@ position: fixed;
 top:80px;
 overflow: hidden;
 -moz-animation: slide_hidden 1s ease 0s forwards;
--webkit-animation: slide_hidden1s ease 0s forwards;
+-webkit-animation: slide_hidden 1s ease 0s forwards;
 -o-animation: slide_hidden 1s ease 0s forwards;
 -ms-animation: slide_hidden 1s ease 0s forwards;
 animation: slide_hidden 1s ease 0s forwards;
