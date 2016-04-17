@@ -1,0 +1,85 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div ng-controller="controller_blog" class="wrapper">
+
+	<header class="header_wrapper" >
+		<div class="header_left_block">
+			<a href="#/"><img class="logo_header" src="pictures/logobowery-blue.png"></img></a>
+			<a href="#/"><div class="logo_title">312 Bowery in Paris</div> </a>
+		</div>
+		<div class="header_right_block">
+			<a href="#/williambuchina"><p class="artist_name">William Buchina</p></a>
+			<a href="#/collinkillian"><p class="artist_name">Collin Killian</p></a>
+			<a href="#/samuelstabler"><p class="artist_name">Samuel Stabler</p></a>
+		</div>
+		
+	</header>
+
+	<div class="mobile_menu">
+	
+		<div class="menu_header_top"><a href="#/"><img class="menu_mobile_logo" src="pictures/logobowery-white.png"></div></a>
+		<div class="menu_header_top_bg"></div>
+		
+		<div ng-class="classmenu" class="mobile_menu_list">
+			<a href="#/" class="menu_element_link"><div class="mobile_menu_element" ng-click="">HOME</div></a>
+			<a href="#/williambuchina" class="menu_element_link"><div class="mobile_menu_element" ng-click="">WILLIAM BUCHINA</div></a>
+			<a href="#/collinkillian" class="menu_element_link"><div class="mobile_menu_element" ng-click="">COLIN KILIAN</div></a>
+			<a href="#/samuelstabler" class="menu_element_link"><div class="mobile_menu_element" ng-click="">SAMUEL STABLER</div></a>
+		</div>
+		
+		<div id="hamburger" ng-click="hidemenu(); crosshamburger();">
+		  <span ng-class="classbar1"></span>
+		  <span ng-class="classbar2"></span>
+		  <span ng-class="classbar3"></span>
+		  <span ng-class="classbar4"></span>
+		</div>
+	
+	</div>
+
+	<div class="main_block_wrapper">
+
+		
+		<div class="article_description">
+
+			<h1 class="article_description_title">William buchina</h1>
+			<h2 class="article_description_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h2>
+			<p class="article_description_content">	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima</p>
+		</div>
+
+		<img class="displayed_photo" ng-model="painting_to_display" src="{{painting_to_display_b[0].path}}" class="photo_previews_pictures"></img>
+
+		<div class="photo_preview_container">
+			<div class="photo_preview_wrapper" ng-model="buchina_paintings">
+				<div class="three_pack_photo">
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[0])">
+						<img src="{{buchina_paintings[0].path}}" class="photo_miniature"></img>
+						<div class="overlay"> <p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[1])">
+						<img src="{{buchina_paintings[1].path}}" class="photo_miniature"></img>
+						<div class="overlay"> <p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[2])">
+						<img src="{{buchina_paintings[2].path}}" class="photo_miniature"></img>
+						<div class="overlay"> <p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>				
+				</div>
+				<div class="three_pack_photo">
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[3])">
+						<img src="{{buchina_paintings[3].path}}" class="photo_miniature"></img>
+						<div class="overlay"> <p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[4])">
+						<img src="{{buchina_paintings[4].path}}" class="photo_miniature"></img>
+						<div class="overlay"> <p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>
+					<div class="photo_previews_pictures" ng-click="painting_to_display_f_b(buchina_paintings[5])">
+						<img src="{{buchina_paintings[5].path}}" class="photo_miniature"></img>
+						<div class="overlay"><p class="click_to_display">CLICK TO DISPLAY</p></div>
+					</div>	
+				</div>
+			</div>
+		</div>		
+	</div>
+
+
+</div>
