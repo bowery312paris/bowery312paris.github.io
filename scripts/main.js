@@ -9,8 +9,8 @@ app.config(function($routeProvider){
 			templateUrl : '/views/home.html',})
 		.when('/williambuchina', {
 			templateUrl : '/views/williambuchina.html',})
-		.when('/collinkillian', {
-			templateUrl : '/views/collinkillian.html',})
+		.when('/colinkilian', {
+			templateUrl : '/views/colinkilian.html',})
 		.when('/samuelstabler', {
 			templateUrl : '/views/samuelstabler.html',})
 		.when('/home', {
