@@ -35,7 +35,7 @@ $scope.crosshamburger = function(){
 		$scope.classbar4 = "hamburger_bottom_bar"
 };
 
-$scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/WilliamBuchina-8-small.jpg"}];
+$scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"}];
 
 $scope.buchina_paintings = [
 	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"},
@@ -68,6 +68,29 @@ $scope.samuel_paintings = [
 	{"photo":"photo6", "path":"../photos/samuelstabler/Installation/Sinsta3.jpg"}
 ];
 
+	
+$scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/SOeuvres2.jpg"}];
+
+$scope.jason_paintings = [
+	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/SOeuvres2.jpg"},
+	{"photo":"photo2", "path":"../photos/samuelstabler/Installation/Sinsta4.jpg"},
+	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/SOeuvres3.jpg"},
+	{"photo":"photo4", "path":"../photos/samuelstabler/Installation/Sinsta1.jpg"},
+	{"photo":"photo5", "path":"../photos/samuelstabler/Installation/Sinsta2.jpg"},
+	{"photo":"photo6", "path":"../photos/samuelstabler/Installation/Sinsta3.jpg"}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 $scope.painting_to_display_f_b = function(element){
 	$scope.painting_to_display_b[0] = element;
 };
