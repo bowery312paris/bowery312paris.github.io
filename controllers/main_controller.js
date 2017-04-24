@@ -38,9 +38,9 @@ $scope.crosshamburger = function(){
 $scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/WilliamBuchina-8-small.jpg"}];
 
 $scope.buchina_paintings = [
-	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/WilliamBuchina-8-small.jpg"},
-	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/WilliamBuchina-7-small.jpg"},
-	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/WilliamBuchina-6-small.jpg"},
+	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"},
+	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2016-0018 Assembling for Certain Reasons- A Family Watches the Patriarch_2016_24 x 24 inches.jpg"},
+	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/BUC-2016-0011 Being Presented to An Elevated Judge_2016_36 x 54 inches.jpg"},
 	{"photo":"photo4", "path":"../photos/williambuchina/Installation/Buchina_TTSAHL_Install07.jpg"},
 	{"photo":"photo5", "path":"../photos/williambuchina/Installation/Buchina_TTSAHL_Install09.jpg"},
 	{"photo":"photo6", "path":"../photos/williambuchina/Installation/Buchina_TTSAHL_Install01.jpg"}
