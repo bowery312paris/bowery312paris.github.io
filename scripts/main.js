@@ -13,6 +13,8 @@ app.config(function($routeProvider){
 			templateUrl : '/views/colinkilian.html',})
 		.when('/samuelstabler', {
 			templateUrl : '/views/samuelstabler.html',})
+		.when('/jasonbyers', {
+			templateUrl : '/views/jasonbyers.html',})
 		.when('/home', {
 			templateUrl : '/views/home.html',})
 
