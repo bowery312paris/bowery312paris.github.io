@@ -53,8 +53,8 @@ $scope.colin_paintings = [
 	{"photo":"photo2", "path":"../photos/colinkilian/oeuvres/col-oeuvres2.png"},
 	{"photo":"photo3", "path":"../photos/colinkilian/oeuvres/col-oeuvres3.png"},
 	{"photo":"photo4", "path":"../photos/colinkilian/Installation/Colin_Kilian_Robert_Kuo_Install03.jpg"},
-	{"photo":"photo5", "path":"../photos/colinkilian/Installation/Kilian_Garis _ Hahn2014_02(1).jpg"},
-	{"photo":"photo6", "path":"../photos/colinkilian/Installation/Kilian_Garis _ Hahn2014_07.jpg"}
+	{"photo":"photo5", "path":"../photos/colinkilian/oeuvres/col-oeuvres4.png"},
+	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
 ];
 
 $scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/SOeuvres2.jpg"}];
