@@ -69,15 +69,15 @@ $scope.samuel_paintings = [
 ];
 
 	
-$scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/SOeuvres2.jpg"}];
+$scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches.jpg"}];
 
 $scope.jason_paintings = [
-	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/SOeuvres2.jpg"},
-	{"photo":"photo2", "path":"../photos/samuelstabler/Installation/Sinsta4.jpg"},
-	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/SOeuvres3.jpg"},
-	{"photo":"photo4", "path":"../photos/samuelstabler/Installation/Sinsta1.jpg"},
-	{"photo":"photo5", "path":"../photos/samuelstabler/Installation/Sinsta2.jpg"},
-	{"photo":"photo6", "path":"../photos/samuelstabler/Installation/Sinsta3.jpg"}	
+	{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo2", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0004 Alabama, Yellow Hammer_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo3", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0021 Louisiana, Eastern Brown Pelican_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo4", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0030 Nebraska, Western Meadowlark_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo5", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0051 West Virginia, Cardinal_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo6", "path":"../photos/jasonbyers/oeuvres/JAB_50States50Birds-Install01.jpg"}	
 	
 ];	
 	
