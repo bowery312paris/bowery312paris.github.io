@@ -103,6 +103,11 @@ $scope.painting_to_display_f_s = function(element){
 	$scope.painting_to_display_s[0] = element;
 };
 
+$scope.painting_to_display_f_j = function(element){
+	$scope.painting_to_display_j[0] = element;
+};
+
+
 });
 
 
