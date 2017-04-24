@@ -129,8 +129,8 @@ color: white;
 font-family: ProximaNova-Regular;
 position: absolute;
 margin-left: calc(50% - 41px);
-top: 350px;
-font-size: 12px;
+top: 330px;
+font-size: 20px;
 color: white;
 }
 
@@ -289,9 +289,9 @@ color: white;
 .subtitle_home{
 font-family: ProximaNova-Regular;
 position: absolute;
-margin-left: calc(50% - 121px);
-top: 350px;
-font-size: 12px;
+margin-left: calc(50% - 190px);
+top: 330px;
+font-size: 18px;
 color: white;
 }
 
@@ -398,7 +398,7 @@ background-size: cover;
 font-family: ProximaNova-Semibold;
 position: absolute;
 margin-left: calc(50% - 275px);
-top: 300px;
+top: 250px;
 font-size: 48px;
 color: white;
 }
@@ -406,9 +406,9 @@ color: white;
 .subtitle_home{
 font-family: ProximaNova-Regular;
 position: absolute;
-margin-left: calc(50% - 121px);
-top: 400px;
-font-size: 12px;
+margin-left: calc(50% - 190px);
+top: 330px;
+font-size: 18px;
 color: white;
 }
 
@@ -514,7 +514,7 @@ background-size: cover;
 font-family: ProximaNova-Semibold;
 position: absolute;
 margin-left: calc(50% - 275px);
-top: 400px;
+top: 250px;
 font-size: 48px;
 color: white;
 }
@@ -522,9 +522,9 @@ color: white;
 .subtitle_home{
 font-family: ProximaNova-Regular;
 position: absolute;
-margin-left: calc(50% - 121px);
-top: 500px;
-font-size: 12px;
+margin-left: calc(50% - 190px);
+top: 330px;
+font-size: 18px;
 color: white;
 }
 }
@@ -633,7 +633,7 @@ background-size: cover;
 font-family: ProximaNova-Semibold;
 position: absolute;
 margin-left: calc(50% - 275px);
-top: 400px;
+top: 250px;
 font-size: 48px;
 color: white;
 }
@@ -641,9 +641,9 @@ color: white;
 .subtitle_home{
 font-family: ProximaNova-Regular;
 position: absolute;
-margin-left: calc(50% - 121px);
-top: 500px;
-font-size: 12px;
+margin-left: calc(50% - 190px);
+top: 330px;
+font-size: 18px;
 color: white;
 }
 }
