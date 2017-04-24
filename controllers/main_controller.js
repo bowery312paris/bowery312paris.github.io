@@ -79,7 +79,7 @@ $scope.jason_paintings = [
 	{"photo":"photo5", "path":"../photos/samuelstabler/Installation/Sinsta2.jpg"},
 	{"photo":"photo6", "path":"../photos/samuelstabler/Installation/Sinsta3.jpg"}	
 	
-	
+];	
 	
 	
 	
