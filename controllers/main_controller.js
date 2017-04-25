@@ -83,9 +83,9 @@ $scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/jasonbyers/o
 $scope.jason_paintings = [
 	{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/JAB_50States50Birds-Install01.jpg"},
 	{"photo":"photo2", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0004 Alabama, Yellow Hammer_2016_6.5 x 4.5 inches_ok.jpg"},
-	{"photo":"photo3", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0021 Louisiana, Eastern Brown Pelican_2016_6.5 x 4.5 inches.jpg"},
-	{"photo":"photo4", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0030 Nebraska, Western Meadowlark_2016_6.5 x 4.5 inches.jpg"},
-	{"photo":"photo5", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0051 West Virginia, Cardinal_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo3", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0021 Louisiana, Eastern Brown Pelican_2016_6.5 x 4.5 inches_ok.jpg"},
+	{"photo":"photo4", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0030 Nebraska, Western Meadowlark_2016_6.5 x 4.5 inches_ok.jpg"},
+	{"photo":"photo5", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0051 West Virginia, Cardinal_2016_6.5 x 4.5 inches_ok.jpg"},
 	{"photo":"photo6", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches_ok.jpg"}	
 	
 ];	
