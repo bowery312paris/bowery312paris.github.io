@@ -73,7 +73,7 @@ $scope.samuel_paintings = [
 	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches_ok.jpg"},
 	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Blue Neon Cowboys)_install_wallpaper_1.jpg"},
 	{"photo":"photo4", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Blue Neon Cowboys)_install_white_5.jpg"},
-	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/STA-2017-0004 Untitled (Floral Still Life)_2017_60 x 40 inches.jpg"},
+	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/STA-2017-0004 Untitled (Floral Still Life)_2017_60 x 40 inches_ok.jpg"},
 	{"photo":"photo6", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Neon Cowboys)_install_white_10.jpg"}
 ];
 
