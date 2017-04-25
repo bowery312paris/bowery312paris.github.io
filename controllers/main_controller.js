@@ -47,10 +47,10 @@ $scope.crosshamburger = function(){
 $scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"}];
 
 $scope.buchina_paintings = [
-	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"},
-	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2016-0018 Assembling for Certain Reasons- A Family Watches the Patriarch_2016_24 x 24 inches.jpg"},
+	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches_ok.jpg"},
+	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2016-0018 Assembling for Certain Reasons- A Family Watches the Patriarch_2016_24 x 24 inches_ok.jpg"},
 	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/BUC-2016-0011 Being Presented to An Elevated Judge_2016_36 x 54 inches.jpg"},
-	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/0.jpg"},
+	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/0_ok.jpg"},
 	{"photo":"photo5", "path":"../photos/williambuchina/oeuvres/unnamed-1.jpg"},
 	{"photo":"photo6", "path":"../photos/williambuchina/Installation/Buchina_TTSAHL_Install01.jpg"}
 ];
@@ -60,7 +60,7 @@ $scope.painting_to_display_c =[{"photo":"photo1", "path":"../photos/colinkilian/
 $scope.colin_paintings = [
 	{"photo":"photo1", "path":"../photos/colinkilian/oeuvres/col-oeuvres1.png"},
 	{"photo":"photo2", "path":"../photos/colinkilian/oeuvres/col-oeuvres2.png"},
-	{"photo":"photo3", "path":"../photos/colinkilian/oeuvres/col-oeuvres3.png"},
+	{"photo":"photo3", "path":"../photos/colinkilian/oeuvres/col-oeuvres3_ok.png"},
 	{"photo":"photo4", "path":"../photos/colinkilian/Installation/Colin_Kilian_Robert_Kuo_Install03.jpg"},
 	{"photo":"photo5", "path":"../photos/colinkilian/oeuvres/col-oeuvres4.png"},
 	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
