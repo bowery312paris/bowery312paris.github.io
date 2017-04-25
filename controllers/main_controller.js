@@ -66,14 +66,14 @@ $scope.colin_paintings = [
 	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
 ];
 
-$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2017-0005 Untitled (Floral Still Life Sculpture)_2017_50 x 40 x 40 inches_B.jpg"}];
+$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2017-0005 Untitled (Floral Still Life Sculpture)_2017_50 x 40 x 40 inches_B_ok.jpg"}];
 
 $scope.samuel_paintings = [
-	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2017-0005 Untitled (Floral Still Life Sculpture)_2017_50 x 40 x 40 inches_B.jpg"},
-	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches.jpg"},
+	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2017-0005 Untitled (Floral Still Life Sculpture)_2017_50 x 40 x 40 inches_B_ok.jpg"},
+	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches_ok.jpg"},
 	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/SOeuvres3.jpg"},
 	{"photo":"photo4", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Blue Neon Cowboys)_install_white_5.jpg"},
-	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Floral Still Life)_install_white.jpg"},
+	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Floral Still Life)_install_white_ok.jpg"},
 	{"photo":"photo6", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Neon Cowboys)_install_white_10.jpg"}
 ];
 
