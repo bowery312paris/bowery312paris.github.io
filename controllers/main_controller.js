@@ -6,6 +6,7 @@ $scope.classbar1="hamburger_top_bar";
 $scope.classbar2="hamburger_middle1_bar";
 $scope.classbar3="hamburger_middle2_bar";
 $scope.classbar4="hamburger_bottom_bar";
+$scope.classbar5="hamburger_bottom2_bar";	
 
 $scope.hidemenu = function(){
 	if($scope.classmenu ==="invisible_menu")
@@ -33,6 +34,14 @@ $scope.crosshamburger = function(){
 		$scope.classbar4 = "hamburger_bottom_bar_clicked"
 	else if($scope.classbar4 === "hamburger_bottom_bar_clicked")
 		$scope.classbar4 = "hamburger_bottom_bar"
+	if($scope.classbar5 ==="hamburger_bottom2_bar")
+		$scope.classbar5 = "hamburger_bottom2_bar_clicked"
+	else if($scope.classbar5 === "hamburger_bottom2_bar_clicked")
+		$scope.classbar5 = "hamburger_bottom2_bar"
+	
+	
+	
+	
 };
 
 $scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches.jpg"}];
