@@ -66,7 +66,7 @@ $scope.colin_paintings = [
 	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
 ];
 
-$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2017-0005 Untitled (Floral Still Life Sculpture)_2017_50 x 40 x 40 inches_B_ok.jpg"}];
+$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches_ok.jpg"}];
 
 $scope.samuel_paintings = [
 	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches.jpg"},
