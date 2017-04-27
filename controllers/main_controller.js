@@ -66,7 +66,7 @@ $scope.colin_paintings = [
 	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
 ];
 
-$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"}];
+$scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"}];
 
 $scope.samuel_paintings = [
 	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"},
