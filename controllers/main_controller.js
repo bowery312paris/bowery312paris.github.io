@@ -52,7 +52,7 @@ $scope.buchina_paintings = [
 	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/BUC-2016-0011 Being Presented to An Elevated Judge_2016_36 x 54 inches.jpg"},
 	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/0_ok.jpg"},
 	{"photo":"photo5", "path":"../photos/williambuchina/oeuvres/unnamed-1.jpg"},
-	{"photo":"photo6", "path":"../photos/williambuchina/Installation/Buchina_TTSAHL_Install01.jpg"}
+	{"photo":"photo6", "path":"../photos/williambuchina/oeuvres/unspecified.jpg"}
 ];
 
 $scope.painting_to_display_c =[{"photo":"photo1", "path":"../photos/colinkilian/oeuvres/col-oeuvres1.png"}];
