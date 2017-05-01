@@ -69,8 +69,8 @@ $scope.colin_paintings = [
 $scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).jpg"}];
 
 $scope.samuel_paintings = [
-	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).jpg"},
-	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/IMG_2650.jpg"},
+	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).JPG"},
+	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/IMG_2650.JPG"},
 	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"},
 	{"photo":"photo4", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches_ok.jpg"},
 	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/STA-2016-0015 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"},
