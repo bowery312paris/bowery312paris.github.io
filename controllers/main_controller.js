@@ -44,7 +44,7 @@ $scope.crosshamburger = function(){
 	
 };
 
-$scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches_ok.jpg"}];
+$scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2017-0004 Assembling for Certain Reasons- Men Who Played a Game of Chance and Won a Prize_2017_25 x 36 inches.jpg"}];
 
 $scope.buchina_paintings = [
 	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2017-0004 Assembling for Certain Reasons- Men Who Played a Game of Chance and Won a Prize_2017_25 x 36 inches.jpg"},
