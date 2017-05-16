@@ -47,8 +47,8 @@ $scope.crosshamburger = function(){
 $scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches_ok.jpg"}];
 
 $scope.buchina_paintings = [
-	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2016-0014 Assembling for Certain Reasons- Many Running in the Same Direction_2016_80 x 60 inches_ok.jpg"},
-	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2016-0018 Assembling for Certain Reasons- A Family Watches the Patriarch_2016_24 x 24 inches_ok.jpg"},
+	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2017-0004 Assembling for Certain Reasons- Men Who Played a Game of Chance and Won a Prize_2017_25 x 36 inches.jpg"},
+	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2017-0005 Assembling for Certain Reasons- Men Displaying Objects They Have Been Given_2017_25 x 36 inches.jpg"},
 	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/BUC-2016-0011 Being Presented to An Elevated Judge_2016_36 x 54 inches.jpg"},
 	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/0_ok.jpg"},
 	{"photo":"photo5", "path":"../photos/williambuchina/oeuvres/unnamed-1.jpg"},
