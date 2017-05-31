@@ -78,15 +78,15 @@ $scope.samuel_paintings = [
 ];
 
 	
-$scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches.jpg"}];
+$scope.painting_to_display_j =[{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/JAB_50States50Birds-Install01.jpg"}];
 
 $scope.jason_paintings = [
-	{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches.jpg"},
+	{"photo":"photo1", "path":"../photos/jasonbyers/oeuvres/JAB_50States50Birds-Install01.jpg"},
 	{"photo":"photo2", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0018 Iowa, Eastern Goldfinch_2016_6.5 x 4.5 inches.jpg"},
 	{"photo":"photo3", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0019 Kansas, Western Meadowlark_2016_6.5 x 4.5 inches.jpg"},
 	{"photo":"photo4", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0025 Michigan, Robin_2016_6.5 x 4.5 inches.jpg"},
 	{"photo":"photo5", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0027 Mississippi, Mockingbird_2016_6.5 x 4.5 inches.jpg"},
-	{"photo":"photo6", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0049 Virginia, Cardinal_2016_6.5 x 4.5 inches.jpg"}	
+	{"photo":"photo6", "path":"../photos/jasonbyers/oeuvres/BYE-2016-0015 Idaho, Mountain Bluebird_2016_6.5 x 4.5 inches.jpg"}	
 	
 ];	
 	
