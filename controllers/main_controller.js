@@ -70,10 +70,10 @@ $scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstable
 
 $scope.samuel_paintings = [
 	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).JPG"},
-	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/IMG_2650.JPG"},
-	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/STA-2016-0013 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"},
-	{"photo":"photo4", "path":"../photos/samuelstabler/oeuvres/STA-2016-0040 Untitled (Red Cut-Out)_2016_30 x 22 inches_ok.jpg"},
-	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/STA-2016-0015 Untitled (Neon Cowboys)_2016_13.25 x 57.25 inches_ok.jpg"},
+	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/STA-2017-0010 Untitled Cut-Out (Johnny Cash)_2017_28 x 21.25 inches.jpg"},
+	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/STA-2017-0011 Untitled Cut-Out Portrait (Emperor Maximilian)_2017_27 x 21 inches.jpg"},
+	{"photo":"photo4", "path":"../photos/samuelstabler/oeuvres/STA-2017-0012 Untitled (Neon Cowboys)_2017_13 x 40 inches.jpg"},
+	{"photo":"photo5", "path":"../photos/samuelstabler/oeuvres/STA-2017-0013 Untitled (Neon Cowboys)_2017_13 x 40 inches.jpg"},
 	{"photo":"photo6", "path":"../photos/samuelstabler/oeuvres/Stabler_Untitled (Neon Cowboys)_install_white_10.jpg"}
 ];
 
