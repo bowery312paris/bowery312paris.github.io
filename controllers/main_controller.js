@@ -68,7 +68,7 @@ $scope.colin_paintings = [
 
 $scope.painting_to_display_s =[{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).JPG"}];
 
-$scope.samuel_paintings = [
+$scope.samuel_paintings = [ 
 	{"photo":"photo1", "path":"../photos/samuelstabler/oeuvres/IMG_2651 (1).JPG"},
 	{"photo":"photo2", "path":"../photos/samuelstabler/oeuvres/STA-2017-0010.jpg"},
 	{"photo":"photo3", "path":"../photos/samuelstabler/oeuvres/STA-2017-0011.jpg"},
