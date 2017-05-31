@@ -48,10 +48,10 @@ $scope.painting_to_display_b =[{"photo":"photo1", "path":"../photos/williambuchi
 
 $scope.buchina_paintings = [
 	{"photo":"photo1", "path":"../photos/williambuchina/oeuvres/BUC-2017-0004 Assembling for Certain Reasons- Men Who Played a Game of Chance and Won a Prize_2017_25 x 36 inches.jpg"},
-	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2017-0005 Assembling for Certain Reasons- Men Displaying Objects They Have Been Given_2017_25 x 36 inches.jpg"},
+	{"photo":"photo2", "path":"../photos/williambuchina/oeuvres/BUC-2017-0006 Assembling for Certain Reasons- Man Giving Prized Object to Another Man, Both Are Pleased_2017_12 x 24 inches.jpg"},
 	{"photo":"photo3", "path":"../photos/williambuchina/oeuvres/BUC-2016-0011 Being Presented to An Elevated Judge_2016_36 x 54 inches.jpg"},
-	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/0_ok.jpg"},
-	{"photo":"photo5", "path":"../photos/williambuchina/oeuvres/unnamed-1.jpg"},
+	{"photo":"photo4", "path":"../photos/williambuchina/oeuvres/BUC-2016-0001 Early in a Clear Evening_2016_36 x 54 inches.jpg"},
+	{"photo":"photo5", "path":"../photos/williambuchina/oeuvres/BUC-2016-0003 While All the Others Are Working_2016_36 x 54 inches.jpg"},
 	{"photo":"photo6", "path":"../photos/williambuchina/oeuvres/unspecified.jpg"}
 ];
 
