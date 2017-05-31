@@ -60,7 +60,7 @@ $scope.painting_to_display_c =[{"photo":"photo1", "path":"../photos/colinkilian/
 $scope.colin_paintings = [
 	{"photo":"photo1", "path":"../photos/colinkilian/oeuvres/col-oeuvres1.png"},
 	{"photo":"photo2", "path":"../photos/colinkilian/oeuvres/col-oeuvres2.png"},
-	{"photo":"photo3", "path":"../photos/colinkilian/oeuvres/col-oeuvres3_ok.jpg"},
+	{"photo":"photo3", "path":"../photos/colinkilian/oeuvres/KIL-2017-0005 Fox Hall 1_2017_30 x 42 inches.jpg"},
 	{"photo":"photo4", "path":"../photos/colinkilian/Installation/Colin_Kilian_Robert_Kuo_Install03.jpg"},
 	{"photo":"photo5", "path":"../photos/colinkilian/oeuvres/col-oeuvres4.png"},
 	{"photo":"photo6", "path":"../photos/colinkilian/oeuvres/col-oeuvres5.png"}
